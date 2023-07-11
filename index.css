@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+}.header-image{
+   
+}
+.first-container{
+   /* height: 70vh; */
+    display: flex;
+    align-items: center;
+
+    background-color: rgba(229, 84,115,0.10);
+    /* background-position: relative; */
+    /* position: ; */
+
+    padding: 50px,50px,50px,0px
+  
+}
+
+
+.header-description{
+  
+    width: 50%;
+    text-align: left;
+    padding-left: 50px;
+    
+
+}
+.header-text{
+    
+
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+   font-size: 800px;
+    font-weight: 800;
+    padding-bottom: 5px;
+    text-align: left;
+   
+
+}
+.btn{
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: palevioletred;
+   
+}
+
+.second-container{
+    padding-top: 30px;
+    /* height: 30vh; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* width: 80%;
+    margin: auto; */
+
+}
+.second-images{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    object-fit: cover;
+    width: 70%;
+    margin: 50px auto;
+   
+}
+
+.second-text{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+    .font{
+        font-size: larger;
+        font-weight: bolder;
+    }
+.figcap-text{
+    text-align: center;
+
+}
+.border1{
+    height: 230px;
+    width: 180px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+   border-radius: 300px 300px 0px 0px;
+    background-color: rgba(137, 33, 98, 0.15);
+    
+
+}
+.border2{
+    height: 230px;
+    width: 180px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(5, 151, 160, 0.15);
+
+}
+
+.border3{
+    height: 230px;
+    width: 180px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 300px 300px 0px 0px;
+    background-color:rgba(71, 125, 17, 0.15);
+
+}
+.third-container{
+    
+    display: flex;
+    align-items: center;
+    background-color: rgba(229, 84,115,0.05);
+}
+.third-description{
+    width: 60%;
+    text-align: center;
+    /* margin: auto; */
+    /* padding: 30px; */
+    padding-bottom: 20px;
+}
+.third-image{
+    
+    
+}
+.fourth-description{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* padding-bottom: 20px; */
+    padding: 20px;
+}
+.fourth-images{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    object-fit: cover;
+   width: 70%;
+   margin: auto;
+    
+
+    /* padding-bottom: 50px;
+    
+
+}
+/* .fifth-description{
+    display: flex;
+    flex-direction: column;
+    align-items: center; */
+}
+
+.shape-images{
+    width: 200px; ;
+    height: 250px; ;
+
+}
+
+
+
+
+
+.fifth{
+    background-image: url("./Flower Asset/Rectangle 9.png");
+    background-repeat: no-repeat;
+    width: 75%;
+    margin: 50px auto;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .fifth-image{
+    width: 100%
+    margin: auto; */
+
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:30px;
+    padding-top: 20px;
+}
+.ph-button{
+    border-radius: 5px;
+    height: 30px;
+    width: 300px;
+    text-align: left;
+   
+   
+   
+    
+}
+
+.foot{
+    background-color: black;
+    color: white;
+   width: 100%;
+   height: 150px;
+   /* margin: auto; */
+   padding-top: 50px;
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    align-items: center
+
+    
+    
+
+
+}
+
+    
+    
